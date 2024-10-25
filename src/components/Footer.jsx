@@ -2,7 +2,8 @@
 import Image from "next/image"
 import Link from "next/link"
 // Media
-import Logo from "media/logo.svg"
+
+import Logo from "media/bpc-2.png"
 import FB from "media/social/fb.svg"
 import Insta from "media/social/insta.svg"
 import Twitter from "media/social/twitter.svg"
