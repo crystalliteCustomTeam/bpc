@@ -4,7 +4,7 @@ import Image from "next/image"
 import Link from "next/link"
 import { usePathname } from "next/navigation"
 // Media
-import Logo from "media/logo.svg"
+import Logo from "media/bpc-2.png"
 import LogoLight from "media/bpc-2.png"
 // Components
 import Navlist from "./Navlist"
